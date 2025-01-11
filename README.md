@@ -5,12 +5,12 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-pip install pycounts_sephr
+pip install pycounts_sephe
 ```
 
 ## Usage
 
-`pycounts_sephr` can be used to count words in a text file and plot results
+`pycounts_sephe` can be used to count words in a text file and plot results
 as follows:
 
 ```python
