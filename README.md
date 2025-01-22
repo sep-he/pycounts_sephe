@@ -7,6 +7,9 @@ Calculate word counts in a text file!
 ```bash
 pip install pycounts_sephe
 ```
+## Contributing
+
+Sepehr
 
 ## Usage
 
